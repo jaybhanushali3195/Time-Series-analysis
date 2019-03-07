@@ -11,3 +11,6 @@ fit an ARIMA model into a real life dataset
 <p>look if there's a trend in the data 
 <p>look if there's a difference in the variation 
 <p>look at ACF, PACF. Akaike Information Criterion, sum of squared errors, and also Ljung-Box Q-statistics
+#  BJsales Data set.
+  Performing Difference operations to bring in stationarity
+  <p>Trying various models and selecting the best on the basis pf simplicity and AIC
