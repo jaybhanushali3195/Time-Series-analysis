@@ -18,4 +18,22 @@ fit an ARIMA model into a real life dataset
   
 # Johnson & Johnson quarterly earnings
 <p>Fit sarima model to quaterly earnings of JOhnson and johnson share
+<p> Residual analysis  
 <p>Forecast future values of the examined time series.
+<p>Modelling process
+<p> look at the time plot; if they need transformation, we're going to transform the data. 
+<p> If we need differencing - seasonal or non-seasonal, we're going to do differencing.
+<p> look at ACF and PACF to determine our orders.
+<p> Once we have some idea of a lot about our orders PQ, we're going to look at a few different models
+ <p>use the parsimony principle and choose the smallest AIC value.
+ <p>residual analysis</p>
+
+# Milk Production Data set
+Fit SARIMA model to Milk Production Data from TSDL(Time series data library)
+<p> Residual analysis 
+<p>Forecast future values of examined time series.</p>
+
+# sales data at a souvenir shop in Australia
+ fit SARIMA models to the dataset
+ forecast the future values of the same time series.
+ 
