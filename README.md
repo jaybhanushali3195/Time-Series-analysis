@@ -14,4 +14,8 @@ fit an ARIMA model into a real life dataset
 
 #  BJsales Data set.
   Performing Difference operations to bring in stationarity
-  <p>Trying various models and selecting the best on the basis pf simplicity and AIC
+  <p>Trying various models and selecting the best on the basis pf simplicity and AIC</p>
+  
+# Johnson & Johnson quarterly earnings
+<p>Fit sarima model to quaterly earnings of JOhnson and johnson share
+<p>Forecast future values of the examined time series.
