@@ -20,7 +20,8 @@ fit an ARIMA model into a real life dataset
 <p>Fit sarima model to quaterly earnings of JOhnson and johnson share
 <p> Residual analysis  
 <p>Forecast future values of the examined time series.</p>
-## Modelling process
+
+# Modelling process
 <p> look at the time plot; if they need transformation, we're going to transform the data. 
 <p> If we need differencing - seasonal or non-seasonal, we're going to do differencing.
 <p> look at ACF and PACF to determine our orders.
