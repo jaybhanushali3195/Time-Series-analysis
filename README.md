@@ -39,5 +39,5 @@ Fit SARIMA model to Milk Production Data from TSDL(Time series data library)
  <p>forecast the future values of the same time series.</p>
  
  # Simple Exponential smoothing on London Rainfall Data set
- # Double Exponential smoothing on Volume of Money Data set
+
  
