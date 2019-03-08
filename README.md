@@ -35,5 +35,8 @@ Fit SARIMA model to Milk Production Data from TSDL(Time series data library)
 
 # sales data at a souvenir shop in Australia
  fit SARIMA models to the dataset
- forecast the future values of the same time series.
+ <p>forecast the future values of the same time series.</p>
+ 
+ # Simple Exponential smoothing on London Rainfall Data set
+ # Double Exponential smoothing on Volume of Money Data set
  
