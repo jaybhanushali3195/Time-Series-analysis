@@ -39,5 +39,15 @@ Fit SARIMA model to Milk Production Data from TSDL(Time series data library)
  <p>forecast the future values of the same time series.</p>
  
  # Simple Exponential smoothing on London Rainfall Data set
+   
+ # Time-series analysis of Temperature and Electricity consumption
+
+	<p>Analysed the temperature time series and Developed Holt-Winter Forecasting Method, ARIMA Seasonal Model in JMP.
+  <p>Engineered a transfer function model for Temperature-Electricity consumption in JMP
+  <p>Forecasted Electricity consumption for given next 6 months of temperatures.
+  <p>Achieved forecasting accuracy of 97.9% using Seasonal ARIMA model in temperature forecasting. 
+	
+  
+	
 
  
